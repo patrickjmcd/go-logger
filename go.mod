@@ -3,7 +3,7 @@ module github.com/patrickjmcd/go-logger
 go 1.22.2
 
 require (
-	github.com/rs/zerolog v1.32.0
+	github.com/rs/zerolog v1.33.0
 	go.elastic.co/ecszerolog v0.2.0
 )
 
